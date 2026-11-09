@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: radial-gradient(#027602, #5da15d);
+}
+.nav h1 {
+    margin-left: 40%;
+    margin: px;
+    color: #50ff50;
+}
+.nav p {
+    color:#50ff50;
+    margin-left: 25%;
+    padding: 25px;
+}
+.nav {
+    background-image: url(eko8.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    margin: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgb(3, 62, 3);
+    opacity: 2;
+}
+.main {
+    margin: 40px;
+    padding: 50px;
+}
+.hh {
+    color: #50ff50;
+    padding: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.blok1 {
+    background-image: url(eko1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgb(0, 50, 0);
+    opacity: 2;
+}
+.blok2 {
+    background-image: url(eko7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgb(0, 50, 0);
+    opacity: 2;
+}
+.pp {
+    color: #28ff28;
+}
+.blok2 h3 {
+    color: rgb(1, 8, 0);
+}
+.blok2 p {
+    color: #000000;
+}
+.blok3 {
+    background-image: url(eko8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgb(0, 50, 0);
+    opacity: 2;
+}
+button {
+    background-color: #22ed22;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px 4px;
+    padding-left: 5px;
+    margin: 6px;
+}
+.Fara {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #91d872;
+}
